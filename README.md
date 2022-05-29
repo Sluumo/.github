@@ -1,2 +1,2 @@
 # .github
-Github repository
+*Community health files for the @Sluumo organization*
